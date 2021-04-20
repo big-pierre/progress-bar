@@ -1,0 +1,9 @@
+.root { -fx-background-color: black;}
+
+.progress-bar > .bar {
+    -fx-background-color: -fx-box-border, rgb(0,255,0);
+}
+
+.progress-bar > .track {
+  -fx-background-color: transparent;
+}
